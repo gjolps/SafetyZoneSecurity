@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Safety Zone Security</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="title_activity_permissions">Permissions</string>
+    <string name="title_activity_view_visitors">ViewVisitors</string>
+    <string name="title_activity_add_visitor">AddVisitor</string>
+    <string name="title_activity_get_vehicle_number">GetVehicleNumber</string>
+    <string name="title_activity_call_owner">CallOwner</string>
+</resources>
